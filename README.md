@@ -8,3 +8,4 @@ Learning Perl, Fifth edition, by Randal L. Schwartz, Tom Phoenix, and brian d fo
 
 - [ch01 Introduction](ch01/)
 - [ch02 Scalar Data](ch02/)
+- [ch03 Lists and Arrays](ch03/)
