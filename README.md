@@ -10,3 +10,4 @@ Learning Perl, Fifth edition, by Randal L. Schwartz, Tom Phoenix, and brian d fo
 - [ch02 Scalar Data](ch02/)
 - [ch03 Lists and Arrays](ch03/)
 - [ch04 Subroutines](ch04/)
+- [ch05 Input and Output](ch05/)

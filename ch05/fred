@@ -1,0 +1,4 @@
+Modify the previous program to let the user choose the column width so that
+entering 30 , hello , good-bye (on separate lines) would put the strings at the 30th
+column. (Hint: see the section in Chapter 2 about controlling variable interpola-
+tion.) For extra credit, make the ruler line longer when the selected width is larger.
