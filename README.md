@@ -11,3 +11,4 @@ Learning Perl, Fifth edition, by Randal L. Schwartz, Tom Phoenix, and brian d fo
 - [ch03 Lists and Arrays](ch03/)
 - [ch04 Subroutines](ch04/)
 - [ch05 Input and Output](ch05/)
+- [ch06 Hashes](ch06/)
