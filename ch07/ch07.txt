@@ -1,0 +1,7 @@
+This is the test file for ch07
+Some rows have to contain fred
+I should test Fred test case as well
+Also frederick
+AND finally Alfred
+NOT FRED
+Mr. Slate
