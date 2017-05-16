@@ -13,3 +13,4 @@ Learning Perl, Fifth edition, by Randal L. Schwartz, Tom Phoenix, and brian d fo
 - [ch05 Input and Output](ch05/)
 - [ch06 Hashes](ch06/)
 - [ch07 In the World of Regular Expressions](ch07/)
+- [ch08 Matching with Regular Expressions](ch08/)
