@@ -1,0 +1,23 @@
+#!/usr/bin/perl -w
+## Copyright (C) 20XX by Yours Truly
+
+=begin
+Make a pattern that will match three consecutive copies of whatever is currently
+contained in $what . That is, if $what is fred , your pattern should match fred
+fredfred . If $what is fred|barney , your pattern should match fredfredbarney or
+barneyfredfred or barneybarneybarney or many other variations. (Hint: you should
+set $what at the top of the pattern test program with a statement like my $what =
+'fred|barney'; .)
+=cut
+
+print "what do you want to match?\n";
+chomp($what =<STDIN>);
+print "what match $what?\n";
+while(<STDIN>){
+  chomp;
+  if (/($what){3}/){
+    print "Matched: |$`<$&>$`|\n";
+  } else {
+    print "No match: |$_|\n";
+  }
+}
