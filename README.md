@@ -17,3 +17,4 @@ Learning Perl, Fifth edition, by Randal L. Schwartz, Tom Phoenix, and brian d fo
 - [ch09 Processing Text with Regular Expressions](ch09/)
 - [ch10 More Control Structures](ch10/)
 - [ch11 Perl Modules](ch11/)
+- [ch12 File Tests](ch12/)
