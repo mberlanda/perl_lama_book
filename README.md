@@ -19,3 +19,4 @@ Learning Perl, Fifth edition, by Randal L. Schwartz, Tom Phoenix, and brian d fo
 - [ch11 Perl Modules](ch11/)
 - [ch12 File Tests](ch12/)
 - [ch13 Directory Operations](ch13/)
+- [ch14 Strings and Sorting](ch14/)
